@@ -1,4 +1,4 @@
-# Frontend Test Task with WebSocket
+# React project with WebSocket
 
 ## App features
 
